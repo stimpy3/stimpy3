@@ -2,7 +2,7 @@
 
 <h3 align="center">🚀 Full Stack Developer | Passionate about Scalable Web Apps & Modern UI Design</h3>
 
-###
+###  
 
 <img align="right" height="180" src="https://i.imgur.com/MI4JZ8d.gif" alt="Coding GIF" />
 
@@ -11,6 +11,13 @@
 - 🧠 I know **C, C++, JavaScript, Node, Express, React, Tailwind, HTML, CSS, Docker, MongoDB, MySQL**
 - 💬 Ask me about **frontend performance or clean backend architecture**
 - ⚡ Fun fact: I like turning caffeine into code ☕  
+
+---
+
+### 🚧 Projects
+- [TAC – Productivity Web App](https://stay-tac.netlify.app/) | React, Node, Tailwind
+- [Portfolio Website](https://stimpy3.github.io/portfolio/) | HTML, CSS, JS
+- Add more projects here as you build them
 
 ---
 
@@ -56,7 +63,7 @@
 ### 🌐 Connect with Me
 
 <div align="center">
-  <a href="mailto:sohan.bhadalkar@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:chimpbowl502@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/sohan-bhadalkar/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.instagram.com/yourusername/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://discord.gg/yourdiscord"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
