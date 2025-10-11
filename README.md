@@ -9,15 +9,14 @@
 - 🌱 I’m currently learning **Microservices & System Design**
 - 💡 I love working with **React, Node.js, Tailwind, MongoDB, MySQL**
 - 🧠 I know **C, C++, JavaScript, Node, Express, React, Tailwind, HTML, CSS, Docker, MongoDB, MySQL**
-- 💬 Ask me about **frontend performance or clean backend architecture**
-- ⚡ Fun fact: I like turning caffeine into code ☕  
+
+
 
 ---
 
 ### 🚧 Projects
 - [TAC – Productivity Web App](https://stay-tac.netlify.app/) | React, Node, Tailwind
-- [Portfolio Website](https://stimpy3.github.io/portfolio/) | HTML, CSS, JS
-- Add more projects here as you build them
+
 
 ---
 
@@ -78,7 +77,3 @@
 </div>
 
 ---
-
-<div align="center">
-  <i>✨ “Code is like humor. When you have to explain it, it’s bad.” ✨</i>
-</div>
