@@ -2,18 +2,17 @@
 
 <h3 align="center">🚀 Full Stack Developer | Passionate about Scalable Web Apps & Modern UI Design</h3>
 
-###  
+---
+
+### About Me
 - 🌱 I’m currently learning **Microservices & System Design**
 - 💡 I love working with **React, Node.js, Tailwind, MongoDB, MySQL**
 - 🧠 I know **C, C++, JavaScript, Node, Express, React, Tailwind, HTML, CSS, Docker, MongoDB, MySQL**
-
-
 
 ---
 
 ### 🚧 Projects
 - [TAC – Productivity Web App](https://stay-tac.netlify.app/) | React, Node, Tailwind
-
 
 ---
 
@@ -42,7 +41,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="Tailwind logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="Tailwind logo" />
 </div>
 
 ---
@@ -66,10 +65,11 @@
 
 ---
 
-<br clear="both" />
+### 🐍 GitHub Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/stimpy3/stimpy3/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/stimpy3/stimpy3/output/snake.svg" alt="Snake animation" width="600"/>
 </div>
 
 ---
+
