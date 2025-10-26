@@ -5,7 +5,6 @@
 ---
 
 ### About Me
-- 🌱 I’m currently learning **Microservices & System Design**
 - 💡 I love working with **React, Node.js, Tailwind, MongoDB, MySQL**
 - 🧠 I know **C, C++, JavaScript, Node, Express, React, Tailwind, HTML, CSS, Docker, MongoDB, MySQL**
 
