@@ -13,7 +13,7 @@
 ### 🚧 Projects
 - [Echoes – Geo-Social Web App](https://echoes-nine-kappa.vercel.app/) | React, Node.js, Express, Tailwind CSS, Leaflet.js, D3.js, MongoDB
 - [TAC – Productivity Web App](https://stay-tac.netlify.app/) | React, Node, Tailwind
-- [FleetDemandPredictor](https://fleetdemand.netlify.app/) | React, FastAPI, Taiwind, Recharts
+- [FareFlow](https://fareflow.netlify.app/) | React, FastAPI, Taiwind, Recharts
 
 ---
 
