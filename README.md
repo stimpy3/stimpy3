@@ -66,11 +66,4 @@
 
 ---
 
-### 🐍 GitHub Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/stimpy3/stimpy3/output/snake.svg" alt="Snake animation" width="600"/>
-</div>
-
----
 
