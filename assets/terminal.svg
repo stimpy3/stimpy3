@@ -1,0 +1,28 @@
+<svg width="740" height="428" viewBox="0 0 740 428" xmlns="http://www.w3.org/2000/svg">
+
+<defs>
+  <style>
+    .mono { font-family: 'Fira Code','Consolas','SFMono-Regular',Menlo,Monaco,monospace; font-size: 14px; }
+  </style>
+</defs>
+<rect x="0" y="0" width="740" height="428" rx="10" fill="#11121b" stroke="#2a2b3d" stroke-width="1.5"/>
+<circle cx="22" cy="18" r="5" fill="#e06c75"/>
+<circle cx="40" cy="18" r="5" fill="#e5c07b"/>
+<circle cx="58" cy="18" r="5" fill="#98c379"/>
+
+<text x="28" y="38" class="mono"><tspan fill="#7dd3a0" font-weight="bold">sohan</tspan><tspan fill="#6b7089">@</tspan><tspan fill="#7dd3a0" font-weight="bold">devbox</tspan></text>
+<text x="28" y="59" class="mono" fill="#3a3c52">--------------------</text>
+<text x="28" y="92.6" class="mono"><tspan fill="#e0af68">Role:</tspan><tspan fill="#4a4c63"> ................ </tspan><tspan fill="#e8e8f0">Full Stack Developer / AI-ML Enthusiast</tspan></text>
+<text x="28" y="113.6" class="mono"><tspan fill="#e0af68">Education:</tspan><tspan fill="#4a4c63"> ........... </tspan><tspan fill="#e8e8f0">B.Tech Computer Engg. (Data Science Hons.), CGPA 9.64/10</tspan></text>
+<text x="28" y="134.6" class="mono"><tspan fill="#e0af68">College:</tspan><tspan fill="#4a4c63"> ............. </tspan><tspan fill="#e8e8f0">K. J. Somaiya College of Engg, Mumbai</tspan></text>
+<text x="28" y="155.6" class="mono"><tspan fill="#e0af68">Current:</tspan><tspan fill="#4a4c63"> ............. </tspan><tspan fill="#e8e8f0">AI/ML Intern @ Percipere</tspan></text>
+<text x="28" y="176.6" class="mono"><tspan fill="#e0af68">Previous:</tspan><tspan fill="#4a4c63"> ............ </tspan><tspan fill="#e8e8f0">Web Dev Intern @ MeshCraft</tspan></text>
+<text x="28" y="197.6" class="mono"><tspan fill="#e0af68">Location:</tspan><tspan fill="#4a4c63"> ............ </tspan><tspan fill="#e8e8f0">Thane, Maharashtra, India</tspan></text>
+<text x="28" y="231.2" class="mono"><tspan fill="#e0af68">Languages.Code:</tspan><tspan fill="#4a4c63"> ...... </tspan><tspan fill="#e8e8f0">Python, C++, JavaScript</tspan></text>
+<text x="28" y="252.2" class="mono"><tspan fill="#e0af68">Languages.Web:</tspan><tspan fill="#4a4c63"> ....... </tspan><tspan fill="#e8e8f0">React, Node.js, Express, FastAPI</tspan></text>
+<text x="28" y="273.2" class="mono"><tspan fill="#e0af68">Languages.AI:</tspan><tspan fill="#4a4c63"> ........ </tspan><tspan fill="#e8e8f0">LLM APIs, RAG, Vision LLMs, PyTorch</tspan></text>
+<text x="28" y="294.2" class="mono"><tspan fill="#e0af68">Languages.Data:</tspan><tspan fill="#4a4c63"> ...... </tspan><tspan fill="#e8e8f0">MongoDB, MySQL, Qdrant, AWS, Docker</tspan></text>
+<text x="28" y="327.8" class="mono"><tspan fill="#e0af68">Connect.GitHub:</tspan><tspan fill="#4a4c63"> ...... </tspan><tspan fill="#e8e8f0">github.com/stimpy3</tspan></text>
+<text x="28" y="348.8" class="mono"><tspan fill="#e0af68">Connect.Email:</tspan><tspan fill="#4a4c63"> ....... </tspan><tspan fill="#e8e8f0">sohanbhadalkar@gmail.com</tspan></text>
+<text x="28" y="369.8" class="mono"><tspan fill="#e0af68">Connect.Project:</tspan><tspan fill="#4a4c63"> ..... </tspan><tspan fill="#e8e8f0">echoes-nine-kappa.vercel.app</tspan></text>
+</svg>
