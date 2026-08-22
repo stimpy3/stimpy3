@@ -21,6 +21,7 @@
 ### 🚧 Projects
 - **MedScan – AI Medicine Intelligence App (MVP)** | React Native, Node.js, MongoDB, Groq, Vision LLMs, RxNorm — Medicine substitution engine and Vision LLM prescription scanner powering a scan-to-chat assistant.
 - [Echoes – Geo-Social Web App](https://echoes-nine-kappa.vercel.app/) | React, Node.js, MongoDB, Leaflet.js, Socket.io, Cloudinary — Real-time geo-social platform with a hybrid K-Means recommendation engine.
+- NeerRikshan – Glacial Lake Watch (MVP) | Python, PyTorch, GEE, FastAPI, React, MapLibre — Frozen U-Net segmentation and uncertainty-quantified trend detection over 867 Himalayan lakes, powering a downstream-exposure risk screening tool validated against an independent satellite inventory.
 
 ---
 
