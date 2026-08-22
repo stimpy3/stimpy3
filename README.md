@@ -37,30 +37,15 @@
 
 [![My Skills](https://skillicons.dev/icons?i=py,cpp,js,react,nodejs,express,mongodb,mysql,aws,docker,git,github,html,css,tailwind)](https://skillicons.dev)
 
-### 🌱 Studying
-
-[![Learning](https://skillicons.dev/icons?i=pytorch,fastapi,regex)](https://skillicons.dev)
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=stimpy3&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_rank=true" height="170" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=stimpy3&layout=compact&langs_count=6&theme=tokyonight" height="170" alt="Top languages" />
-</div>
-
 ---
 
 ### 🌐 Connect with Me
 
 <div>
-  <a href="https://github.com/stimpy3">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="45" height="45"/>
+  <a href="https://www.linkedin.com/in/sohan-bhadalkar-7304692b8/">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="45" height="45"/>
   </a>
   <a href="mailto:sohanbhadalkar@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="45" height="45"/>
   </a>
 </div>
-
-<!-- Add your LinkedIn link and I'll drop the icon in here too -->
