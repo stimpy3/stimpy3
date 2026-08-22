@@ -21,15 +21,15 @@
 ---
 
 ### 💼 Experience
-- **AI/ML Intern, Percipere** *(Jun 2026 – Jul 2026)* — Built cost-optimized LLM web-search & RAG pipelines, and a change-request detection system using hybrid BM25 + MiniLM retrieval.
-- **Web Development Intern, MeshCraft** *(Dec 2025 – May 2026)* — Built a real-time AI voice assistant for farmers with multilingual STT/TTS pipelines and Exotel telephony.
+- **AI/ML Intern, Percipere** *(Jun 2026 – Jul 2026)* — Built a cost-optimized LLM web-search pipeline cutting per-query search costs by ~80% vs. GPT-5's built-in web search; engineered a low-latency BM25/TF-IDF + MiniLM-L12 reranking RAG pipeline; built a change-request detection system using hybrid BM25 + MiniLM retrieval with RRF score fusion.
+- **Web Development Intern, MeshCraft** *(Dec 2025 – May 2026)* — Built React/Node.js/Express services for company and client projects; built a real-time AI voice assistant for farmers with Exotel telephony and multilingual STT/TTS (Sarvam AI, 7+ Indian languages); deployed on AWS S3 + CloudFront, with EC2 hosting a 2D-to-3D floorplan model.
 
 ---
 
 ### 🚧 Projects
-- **MedScan – AI Medicine Intelligence App (MVP)** | React Native, Node.js, MongoDB, Groq, Vision LLMs, RxNorm — Medicine substitution engine and Vision LLM prescription scanner powering a scan-to-chat assistant.
-- [Echoes – Geo-Social Web App](https://echoes-nine-kappa.vercel.app/) | React, Node.js, MongoDB, Leaflet.js, Socket.io, Cloudinary — Real-time geo-social platform with a hybrid K-Means recommendation engine.
-- **NeerRikshan – Glacial Lake Watch (MVP)** | Python, PyTorch, GEE, FastAPI, React, MapLibre — Frozen U-Net segmentation and uncertainty-quantified trend detection over 867 Himalayan lakes, powering a downstream-exposure risk screening tool validated against an independent satellite inventory.
+- **NeerRikshan – Satellite Glacial Lake Monitoring** | Python, PyTorch, Google Earth Engine, FastAPI, React, MapLibre — U-Net segmentation on Sentinel-2 imagery monitoring 867 Himalayan glacial lakes across 7 years (0.906 IoU vs. 0.349 MNDWI baseline); adaptive lake-sized inference with 95% CI trend detection, identifying 152/850 lakes with statistically significant change; validated boundaries (IoU 0.846, r = 0.68) and prioritized 10 high-risk lakes via HydroSHEDS + GHSL exposure data.
+- **MedScan – AI Medicine Intelligence App** | React Native, Node.js, MongoDB, Groq, Vision LLMs, RxNorm — Medicine substitution engine on RxNorm/WHO ATC data across 250K+ medicines and 370K+ verified drug records; Vision LLM pipeline extracting prescription/label details, powering a scan-to-chat assistant with intent classification and multi-turn context tracking.
+- [Echoes – Geo-Social Web App](https://echoes-nine-kappa.vercel.app/) | React, Node.js, MongoDB, Leaflet.js, Socket.io, Cloudinary — Full-stack geo-social platform with real-time WebSocket chat, reverse geocoding, and a hybrid K-Means + geospatial recommendation engine.
 
 ---
 
