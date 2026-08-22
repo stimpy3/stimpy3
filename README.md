@@ -28,7 +28,9 @@
 
 ### 🚧 Projects
 - **NeerRikshan – Satellite Glacial Lake Monitoring** | Python, PyTorch, Google Earth Engine, FastAPI, React, MapLibre — U-Net segmentation on Sentinel-2 imagery monitoring 867 Himalayan glacial lakes across 7 years (0.906 IoU vs. 0.349 MNDWI baseline); adaptive lake-sized inference with 95% CI trend detection, identifying 152/850 lakes with statistically significant change; validated boundaries (IoU 0.846, r = 0.68) and prioritized 10 high-risk lakes via HydroSHEDS + GHSL exposure data.
+
 - **MedScan – AI Medicine Intelligence App** | React Native, Node.js, MongoDB, Groq, Vision LLMs, RxNorm — Medicine substitution engine on RxNorm/WHO ATC data across 250K+ medicines and 370K+ verified drug records; Vision LLM pipeline extracting prescription/label details, powering a scan-to-chat assistant with intent classification and multi-turn context tracking.
+
 - [Echoes – Geo-Social Web App](https://echoes-nine-kappa.vercel.app/) | React, Node.js, MongoDB, Leaflet.js, Socket.io, Cloudinary — Full-stack geo-social platform with real-time WebSocket chat, reverse geocoding, and a hybrid K-Means + geospatial recommendation engine.
 
 ---
